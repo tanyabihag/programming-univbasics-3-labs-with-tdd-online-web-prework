@@ -1,2 +1,2 @@
 # Add your variables here
-first_number = 23
+def first_number = 23
